@@ -1,12 +1,17 @@
 name: Test on Pull Request
 
 on:
+  schedule: [{cron: "0 0 * * *"}]
   push:
     branches: [main]
 
 jobs:
   my_job:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.32
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
