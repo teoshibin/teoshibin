@@ -1,12 +1,15 @@
-name: Test on Pull Request
+name: Update Readme
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-  my_job:
+  metric_update:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -15,3 +18,12 @@ jobs:
         uses: lowlighter/metrics@v3.32
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+  daily_devcard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.1.0
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
