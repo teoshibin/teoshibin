@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
   <img
-    width="150"
+    width="180"
     align="right"
     src="https://github.com/teoshibin/teoshibin/blob/main/devcard.svg"
   />
@@ -26,10 +26,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teoshibin&label=Profile%20views&color=0e75b6&style=flat" alt="teoshibin" /> </p>
 
-- 🇲🇾 Developer from Malaysia, living in UK
+- 🌏 A Developer from Malaysia, wandering in UK
 - 👨‍💻 More about me [https://teoshibin.netlify.app](https://teoshibin.netlify.app)
 - 📫 Reach out to me **teoshibin@gmail.com**
 - 📄 Know my experiences [https://teoshibin.github.io/cv.pdf](https://teoshibin.github.io/cv.pdf)
+- 🛠️ Recent Languages `Kotlin` and `ChatGPT`!? JK~
+- 🌱 Interest `Anime` & `Apex` Addict
+- 💡 Current Life `Figuring out what's next`
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
