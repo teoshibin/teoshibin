@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">👋 Hi, I'm Shi Bin</h1>
-<h3 align="center">Tech Enthusiast</h3>
+<div>
+	<br>
+		<img src="header.svg" width="800" height="120">
+	<br>
+</div>
 
 <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
   <img
@@ -24,7 +27,7 @@ Here are some ideas to get you started:
   />
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teoshibin&label=Profile%20views&color=0e75b6&style=flat" alt="teoshibin" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=teoshibin&label=Profile%20views&color=0e75b6&style=flat" alt="teoshibin" /> </p> -->
 
 - 🌏 A Developer from Malaysia, wandering in UK
 - 👨‍💻 More about me [https://teoshibin.netlify.app](https://teoshibin.netlify.app)
