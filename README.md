@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <a href="#" target="_blank">
   <img
-    width="160"
+    width="140"
     align="right"
     src="https://github.com/teoshibin/teoshibin/blob/main/devcard.svg"
   />
