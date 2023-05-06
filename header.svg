@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 150" width="800" height="150">
+  <defs>
+    <style>
+      <![CDATA[
+        .gradient-text {
+          font-size: 48px;
+          text-anchor: middle;
+          dominant-baseline: central;
+          font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+          text-transform: uppercase;
+          letter-spacing: 5px;
+          animation: fadeIn 5s infinite alternate;
+          text-shadow: 0 1px 0 #cccccc, 0 2px 0 #cccccc, 0 3px 0 #cccccc, 0 4px 0 #cccccc, 0 12px 5px rgba(204, 204, 204, 0.1);
+          fill: white;
+        }
+
+        .sub-text {
+          font-size: 20px;
+          text-anchor: middle;
+          dominant-baseline: central;
+          font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+          fill: white;
+          opacity: 0;
+          animation: fadeIn 5s infinite alternate;
+          animation-delay: 1s;
+          text-shadow: 0 1px 0 #efefef;
+        }
+
+        @keyframes fadeIn {
+          0% {
+            opacity: 0;
+          }
+          100% {
+            opacity: 1;
+          }
+        }
+      ]]>
+    </style>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%" gradientUnits="userSpaceOnUse">
+      <animate attributeName="x1" values="0%;100%" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="100%;200%" dur="10s" repeatCount="indefinite" />
+      <stop offset="0%" stop-color="#fc5c7d">
+        <animate attributeName="stop-color" values="#fc5c7d;#6a82fb;#05dfd7;#fc5c7d" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#6a82fb">
+        <animate attributeName="stop-color" values="#6a82fb;#05dfd7;#fc5c7d;#6a82fb" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" rx="10" ry="10" fill="url(#grad)" />
+  <text x="50%" y="35%" class="gradient-text">Hi, I'm Shi Bin</text>
+  <text x="50%" y="75%" class="sub-text">Tech Enthusiast</text>
+</svg>
