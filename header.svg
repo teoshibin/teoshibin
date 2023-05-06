@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 150" width="800" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 150" width="850" height="130">
   <defs>
     <style>
       <![CDATA[
         .gradient-text {
-          font-size: 48px;
+          font-size: 36px;
           text-anchor: middle;
           dominant-baseline: central;
           font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
@@ -15,7 +15,7 @@
         }
 
         .sub-text {
-          font-size: 20px;
+          font-size: 16px;
           text-anchor: middle;
           dominant-baseline: central;
           font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
