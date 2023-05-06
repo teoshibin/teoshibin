@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="left">
   <br>
-    <img src="header.svg" width="800" height="150">
+    <img src="header.svg" width="900" height="150">
   <br>
 </div>
 
