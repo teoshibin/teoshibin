@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - 🌏 A Developer from Malaysia, wandering in UK
 - 👨‍💻 More about me [https://teoshibin.netlify.app](https://teoshibin.netlify.app)
 - 📫 Reach out to me **teoshibin@gmail.com**
-- 📄 Know my experiences [https://teoshibin.github.io/cv.pdf](https://teoshibin.github.io/cv.pdf)
 - 🛠️ Recent Languages `Kotlin` and `ChatGPT`!? JK~
 - 🌱 Interest `Anime` & `Apex` Addict
 - 💡 Current Life `Figuring out what's next`
