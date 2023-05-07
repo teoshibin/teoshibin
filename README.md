@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 <div align="left">
   <br>
-    <img src="header.svg" width="900" height="150">
+    <img src="header.svg" width="900" height="130">
   <br>
 </div>
 
 <a href="#" target="_blank">
   <img
-    width="140"
+    width="144"
     align="right"
     src="https://github.com/teoshibin/teoshibin/blob/main/devcard.svg"
   />
