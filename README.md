@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 
 <a href="#" target="_blank">
   <img
-    width="135"
+    width="150"
     align="right"
     src="https://github.com/teoshibin/teoshibin/blob/main/devcard.svg"
   />
 </a>
+<br>
 
 - 🌏 A Developer from Malaysia, wandering in UK
 - 👨‍💻 More about me [https://teoshibin.netlify.app](https://teoshibin.netlify.app)
