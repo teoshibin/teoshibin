@@ -42,6 +42,7 @@ jobs:
         - name: Youtube Music - Recently listed
           uses: lowlighter/metrics@latest
           with:
+          filename: metrics.plugin.music.svg
             token: NOT_NEEDED
             base: ""
             plugin_music: yes
