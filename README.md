@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 </a>
 <br>
 
-- 🌏 A Developer from Malaysia, wandering in UK
+- 🌏 A Malaysian Software Engineer, currently staying in UK
 - 👨‍💻 More about me [https://teoshibin.netlify.app](https://teoshibin.netlify.app)
 - 📫 Reach out to me **teoshibin@gmail.com**
-- 🛠️ Recent Languages `Kotlin` and `ChatGPT`!? JK~
+- 🛠️ Recent Languages `Kotlin` & `C#`
 - 🌱 Interest `Anime` & `Apex` Addict
-- 💡 Current Life `Figuring out what's next`
+- 💡 Current Life `Enjoying the moment`
