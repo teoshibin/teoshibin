@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="header.svg" width="900" height="130">
   <br>
 </div>
-
+<!--
 <a href="#" target="_blank">
   <img
     width="150"
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
     src="https://github.com/teoshibin/teoshibin/blob/main/devcard.svg"
   />
 </a>
+-->
 <br>
 
 - 🌏 A Malaysian Software Engineer, currently staying in UK
