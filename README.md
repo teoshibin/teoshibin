@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 - 🌏 A Malaysian Software Engineer, currently staying in UK
 - 👨‍💻 More about me [https://teoshibin.netlify.app](https://teoshibin.netlify.app)
 - 📫 Reach out to me **teoshibin@gmail.com**
-- 🛠️ Recent Languages `Kotlin` & `C#`
+- 🛠️ Recent Languages `Kotlin` & `Rust`
 - 🌱 Interest `Anime` & `Apex` Addict
 - 💡 Current Life `Enjoying the moment`
